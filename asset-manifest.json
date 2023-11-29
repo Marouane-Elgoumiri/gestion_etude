@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gestion_etude/static/css/main.53c57308.css",
+    "main.js": "/gestion_etude/static/js/main.c5d5089a.js",
+    "static/js/787.cdd3fde3.chunk.js": "/gestion_etude/static/js/787.cdd3fde3.chunk.js",
+    "static/media/logo.svg": "/gestion_etude/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gestion_etude/index.html",
+    "main.53c57308.css.map": "/gestion_etude/static/css/main.53c57308.css.map",
+    "main.c5d5089a.js.map": "/gestion_etude/static/js/main.c5d5089a.js.map",
+    "787.cdd3fde3.chunk.js.map": "/gestion_etude/static/js/787.cdd3fde3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53c57308.css",
+    "static/js/main.c5d5089a.js"
+  ]
+}
